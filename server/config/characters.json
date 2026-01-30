@@ -1,0 +1,109 @@
+{
+  "characters": [
+    {
+      "id": "yuki",
+      "name": "Yuji Itadori",
+      "rarity": "SSR",
+      "hp": 1200,
+      "damage": 85,
+      "speed": 1.1,
+      "defense": 0.85,
+      "ceMax": 100,
+      "ceRegen": 2,
+      "abilities": [
+        { "name": "Divergent Fist", "cooldown": 4, "ceCost": 15, "damage": 120, "ceModDamage": 180, "effectType": "impact" },
+        { "name": "Black Flash", "cooldown": 6, "ceCost": 25, "damage": 150, "ceModDamage": 220, "effectType": "blackflash" },
+        { "name": "Cursed Energy Burst", "cooldown": 10, "ceCost": 40, "damage": 200, "ceModDamage": 300, "effectType": "burst" },
+        { "name": "Impact Wave", "cooldown": 20, "ceCost": 60, "damage": 350, "ceModDamage": 500, "effectType": "impact" }
+      ],
+      "m1Damage": 30,
+      "m1CeMod": 45,
+      "dashCeCost": 5,
+      "blockReduction": 0.5
+    },
+    {
+      "id": "kaito",
+      "name": "Megumi Fushiguro",
+      "rarity": "SR",
+      "hp": 1000,
+      "damage": 95,
+      "speed": 1.2,
+      "defense": 0.8,
+      "ceMax": 90,
+      "ceRegen": 2.5,
+      "abilities": [
+        { "name": "Shadow Strike", "cooldown": 3, "ceCost": 10, "damage": 90, "ceModDamage": 140, "effectType": "shadow" },
+        { "name": "Nue's Claw", "cooldown": 5, "ceCost": 20, "damage": 130, "ceModDamage": 190, "effectType": "shadow" },
+        { "name": "Domain Fragment", "cooldown": 8, "ceCost": 35, "damage": 180, "ceModDamage": 260, "effectType": "shadow" },
+        { "name": "Max Elephant", "cooldown": 18, "ceCost": 55, "damage": 280, "ceModDamage": 400, "effectType": "shadow" }
+      ],
+      "m1Damage": 35,
+      "m1CeMod": 50,
+      "dashCeCost": 4,
+      "blockReduction": 0.45
+    },
+    {
+      "id": "hana",
+      "name": "Nobara Kugisaki",
+      "rarity": "Rare",
+      "hp": 900,
+      "damage": 80,
+      "speed": 1.15,
+      "defense": 0.9,
+      "ceMax": 80,
+      "ceRegen": 1.8,
+      "abilities": [
+        { "name": "Straw Doll Resonance", "cooldown": 4, "ceCost": 12, "damage": 100, "ceModDamage": 150, "effectType": "resonance" },
+        { "name": "Hairpin", "cooldown": 6, "ceCost": 22, "damage": 140, "ceModDamage": 200, "effectType": "nail" },
+        { "name": "Hollow Wicker Basket", "cooldown": 9, "ceCost": 38, "damage": 190, "ceModDamage": 280, "effectType": "resonance" },
+        { "name": "Black Flash", "cooldown": 16, "ceCost": 50, "damage": 260, "ceModDamage": 380, "effectType": "blackflash" }
+      ],
+      "m1Damage": 28,
+      "m1CeMod": 42,
+      "dashCeCost": 5,
+      "blockReduction": 0.5
+    },
+    {
+      "id": "ryu",
+      "name": "Aoi Todo",
+      "rarity": "Common",
+      "hp": 850,
+      "damage": 75,
+      "speed": 1.0,
+      "defense": 0.95,
+      "ceMax": 70,
+      "ceRegen": 1.5,
+      "abilities": [
+        { "name": "Boogie Woogie", "cooldown": 5, "ceCost": 15, "damage": 85, "ceModDamage": 125, "effectType": "impact" },
+        { "name": "Slam", "cooldown": 7, "ceCost": 25, "damage": 120, "ceModDamage": 175, "effectType": "earth" },
+        { "name": "Cursed Energy Clap", "cooldown": 11, "ceCost": 40, "damage": 170, "ceModDamage": 250, "effectType": "impact" },
+        { "name": "Black Flash", "cooldown": 22, "ceCost": 65, "damage": 300, "ceModDamage": 450, "effectType": "blackflash" }
+      ],
+      "m1Damage": 25,
+      "m1CeMod": 38,
+      "dashCeCost": 6,
+      "blockReduction": 0.55
+    },
+    {
+      "id": "sakura",
+      "name": "Maki Zenin",
+      "rarity": "UR",
+      "hp": 1100,
+      "damage": 100,
+      "speed": 1.25,
+      "defense": 0.82,
+      "ceMax": 110,
+      "ceRegen": 2.8,
+      "abilities": [
+        { "name": "Dragon Bone", "cooldown": 2.5, "ceCost": 8, "damage": 95, "ceModDamage": 145, "effectType": "slash" },
+        { "name": "Playful Cloud", "cooldown": 4, "ceCost": 18, "damage": 145, "ceModDamage": 210, "effectType": "slash" },
+        { "name": "Split Soul Katana", "cooldown": 7, "ceCost": 32, "damage": 210, "ceModDamage": 310, "effectType": "slash" },
+        { "name": "Heavenly Restriction", "cooldown": 15, "ceCost": 70, "damage": 400, "ceModDamage": 600, "effectType": "slash" }
+      ],
+      "m1Damage": 38,
+      "m1CeMod": 55,
+      "dashCeCost": 3,
+      "blockReduction": 0.48
+    }
+  ]
+}
